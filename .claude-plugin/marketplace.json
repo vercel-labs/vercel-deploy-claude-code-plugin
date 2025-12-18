@@ -16,7 +16,7 @@
       "author": {
         "name": "Vercel"
       },
-      "repository": "https://github.com/vercel-labs/vercel-deploy-claude-code-plugin",
+      "repository": "https://github.com/vercel/vercel-deploy-claude-code-plugin",
       "license": "MIT",
       "keywords": ["vercel", "deployment", "hosting", "ci-cd", "web", "serverless"]
     }

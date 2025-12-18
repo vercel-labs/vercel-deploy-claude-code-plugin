@@ -5,7 +5,7 @@ Deploy to Vercel directly from Claude Code.
 ## Installation
 
 ```bash
-/plugin install vercel-labs/vercel-deploy-claude-code-plugin
+/plugin install vercel@claude-plugins-official
 ```
 
 ## Prerequisites
